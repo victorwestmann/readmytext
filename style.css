@@ -1,0 +1,14 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.4/tailwind.min.css";
+
+#mensagemDeTexto {
+  width: 30%;
+  height: 20%;
+  align-items: center;
+  align-content: center;
+}
+
+html,
+body {
+  height: 100%;
+  background: #222;
+}
